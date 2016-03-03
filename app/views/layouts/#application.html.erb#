@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hanakawa</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+  <meta charset="utf-8">
+</head>
+<body>
+  <%= render 'layouts/header' %>
+  <div class="container">
+     <% flash.each do |message_type, message|%> 
+    <%= content_tag(:div, message, :class => "alert alert-#{message_type}")%>
+    <% end %>
+  </div>
+    <%= yield %>
+    <%= render 'layouts/footer' %>
+    
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <ul class="collapse navbar-nav navbar-right">
+      <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span> home</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-picture"></span> photo</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-globe"></span> access</a></li>
+      <li><a href="#"><span class="glyphicon glyphicon-envelope"></span> contact</a></li>
+    </ul>
+  </div>
+</nav>
+

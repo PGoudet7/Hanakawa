@@ -1,0 +1,181 @@
+Loading 00debian-vars...done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...done
+Loading /etc/emacs/site-start.d/50cmake-data.el (source)...
+cmake-data removed but not purged, skipping setup
+Loading /etc/emacs/site-start.d/50cmake-data.el (source)...done
+Loading /etc/emacs/site-start.d/50dictionaries-common.el (source)...
+Loading debian-ispell...
+Loading /var/cache/dictionaries-common/emacsen-ispell-default.el (source)...done
+Loading debian-ispell...done
+Loading /var/cache/dictionaries-common/emacsen-ispell-dicts.el (source)...done
+Loading /etc/emacs/site-start.d/50dictionaries-common.el (source)...done
+Loading /etc/emacs/site-start.d/50python-docutils.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Auto-saving...done
+Undo! [23 times]
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/views/static_pages/index.html...
+Wrote /home/pierre/rails_project/hanakawa/app/views/static_pages/index.html
+(No changes need to be saved)
+Making completion list...
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+C-x p is undefined
+Making completion list...
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+Unclosed tag <header> [2 times]
+Saving file /home/pierre/rails_project/hanakawa/app/views/static_pages/index.html...
+Wrote /home/pierre/rails_project/hanakawa/app/views/static_pages/index.html
+(No changes need to be saved)
+Auto-saving...done
+End of buffer
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+C-c C-x C-g is undefined
+Quit
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+exchange-point-and-mark: No mark set in this buffer
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+Auto-saving...done
+Mark set
+scroll-down-command: Beginning of buffer [3 times]
+scroll-up-command: End of buffer
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Mark set
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+End of buffer [3 times]
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+Making completion list...
+(New file)
+scroll-up-command: End of buffer
+call-interactively: End of buffer
+Unclosed tag <div> [2 times]
+Saving file /home/pierre/rails_project/hanakawa/app/views/static_pages/home.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/static_pages/home.html.erb
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+Saving file /home/pierre/rails_project/hanakawa/config/routes.rb...
+Wrote /home/pierre/rails_project/hanakawa/config/routes.rb
+Wrote /home/pierre/rails_project/hanakawa/app/views/static_pages/home.html.erb
+(No changes need to be saved)
+exchange-point-and-mark: No mark set in this buffer
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/application.html.erb
+(New file)
+Beginning of buffer
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_footer.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_footer.html.erb
+(No changes need to be saved)
+Auto-saving...done
+Making completion list... [2 times]
+scroll-up-command: End of buffer
+Auto-saving...done
+exchange-point-and-mark: No mark set in this buffer
+scroll-up-command: End of buffer
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+scroll-up-command: End of buffer
+End of buffer [8 times]
+Auto-saving...done
+Undo! [2 times]
+Auto-saving...done
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+End of buffer [3 times]
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+End of buffer
+Mark set
+Mark activated
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+Making completion list...
+Auto-saving...done
+Mark saved where search started
+Saving file /home/pierre/rails_project/hanakawa/Gemfile...
+Wrote /home/pierre/rails_project/hanakawa/Gemfile
+Saving file /home/pierre/rails_project/hanakawa/Gemfile...
+Wrote /home/pierre/rails_project/hanakawa/Gemfile
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/static_pages.scss
+Quit
+Type C-h for help. [13 times]
+Quit
+Saving file /home/pierre/rails_project/hanakawa/app/views/static_pages/home.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/static_pages/home.html.erb
+End of buffer [4 times]
+Making completion list...
+(New file)
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/custom.css.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/custom.css.scss
+Saving file /home/pierre/rails_project/hanakawa/app/assets/stylesheets/custom.css.scss...
+Wrote /home/pierre/rails_project/hanakawa/app/assets/stylesheets/custom.css.scss
+End of buffer [2 times]
+(No changes need to be saved) [2 times]
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Mark set
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Mark set
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Unclosed tag <div>
+Unclosed tag <nav>
+Unclosed tag <header>
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+(No changes need to be saved)
+Auto-saving...done
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+Beginning of buffer
+Saving file /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb...
+Wrote /home/pierre/rails_project/hanakawa/app/views/layouts/_header.html.erb
+(No changes need to be saved) [6 times]
+completing-read-default: Command attempted to use minibuffer while in minibuffer
