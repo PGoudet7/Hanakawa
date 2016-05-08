@@ -6,7 +6,7 @@
 .jumbotron {
 	   font-family: cursive;
 	   font-weight: 900;
-	  color: #FFFFFF;	
+	   color: #FFFFFF;	
 	   background-color: #33cc33;
 	   }
 

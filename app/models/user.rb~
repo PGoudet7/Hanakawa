@@ -1,0 +1,6 @@
+class User < ActiveRecord::Base
+
+  has_many :pictures
+  accpet_nested_attributes_for :pictures
+
+end

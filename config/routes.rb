@@ -8,6 +8,8 @@ Rails.application.routes.draw do
 
   get 'photo' => 'static_pages#photo'
 
+  get 'photo2' => 'static_pages#photo2'
+  
   get 'map' => 'static_pages#map'
   
   # Example of regular route:

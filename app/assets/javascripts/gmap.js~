@@ -1,0 +1,18 @@
+
+var map;
+function initMap() {
+
+    var myLatLng = {lat: 34.706341, lng: 135.464121};
+    
+    map = new google.maps.Map(document.getElementById('map-container'), {
+	center: myLatLng,
+	zoom: 17
+    });
+
+    var marker = new google.maps.Marker({
+	position: myLatLng,
+	map: map,
+	title: 'Hankakawa House'
+    });
+}
+
